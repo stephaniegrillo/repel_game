@@ -97,3 +97,7 @@ put_a_line
 valid_enemies = ["joker", "penguin", "bane"]
 enemy = ask_question("Who should we fight first?", valid_enemies)
 handle_enemy(enemy)
+
+#Brian was here
+
+puts "Brian was here! I've changed your code..."
